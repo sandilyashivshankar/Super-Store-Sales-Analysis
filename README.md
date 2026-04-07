@@ -35,4 +35,4 @@ Highlighted customer segments contributing most to profit.
 
 Screen shot and demos
 Dashboard (https://github.com/sandilyashivshankar/Super-Store-Sales-Analysis/blob/main/SnapShot%20of%20Dashboard.png)
-Forecast (
+Forecast (https://github.com/sandilyashivshankar/Super-Store-Sales-Analysis/blob/main/SnapShot%20of%20Foresact.png)
